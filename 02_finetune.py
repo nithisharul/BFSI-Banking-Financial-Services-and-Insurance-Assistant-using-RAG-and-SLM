@@ -2,7 +2,7 @@ import os
 import json
 import torch
 
-# ── GPU Check ─────────────────────────────────────────────────────────────────
+
 print("CUDA available:", torch.cuda.is_available())
 if torch.cuda.is_available():
     print("GPU:", torch.cuda.get_device_name(0))
@@ -17,8 +17,8 @@ from transformers import (
 )
 from peft import LoraConfig, get_peft_model, TaskType
 
-# ── Config ────────────────────────────────────────────────────────────────────
-BASE_MODEL    = r"C:\Users\Asus\.cache\huggingface\hub\models--TinyLlama--TinyLlama-1.1B-Chat-v1.0\snapshots\fe8a4ea1ffedaf415f4da2f062534de366a451e6"
+
+BASE_MODEL = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 DATA_PATH     = "dataset/bfsi_alpaca.json"
 OUTPUT_DIR    = "models/phi2_bfsi_slm"
 MAX_LENGTH    = 512
@@ -26,7 +26,7 @@ BATCH_SIZE    = 2
 EPOCHS        = 3
 LEARNING_RATE = 3e-4
 
-# ── Load dataset ──────────────────────────────────────────────────────────────
+
 with open(DATA_PATH, "r", encoding="utf-8") as f:
     data = json.load(f)
 
@@ -49,7 +49,6 @@ def combine_fields(examples):
 hf_dataset = Dataset.from_dict(dataset)
 hf_dataset = hf_dataset.map(combine_fields, batched=True)
 
-# ── Tokenizer ─────────────────────────────────────────────────────────────────
 tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL, trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
 
@@ -68,7 +67,7 @@ tokenized_dataset = tokenized_dataset.remove_columns(
     ["instruction", "input", "output", "text"]
 )
 
-# ── 4-bit quantization config ─────────────────────────────────────────────────
+
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.float16,
@@ -76,7 +75,7 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_quant_type="nf4"
 )
 
-# ── Load model ────────────────────────────────────────────────────────────────
+
 model = AutoModelForCausalLM.from_pretrained(
     BASE_MODEL,
     quantization_config=bnb_config,
@@ -84,7 +83,6 @@ model = AutoModelForCausalLM.from_pretrained(
     trust_remote_code=True
 )
 
-# ── LoRA config ───────────────────────────────────────────────────────────────
 lora_config = LoraConfig(
     r=8,
     lora_alpha=32,
@@ -96,7 +94,7 @@ lora_config = LoraConfig(
 model = get_peft_model(model, lora_config)
 model.print_trainable_parameters()
 
-# ── Training args ─────────────────────────────────────────────────────────────
+
 training_args = TrainingArguments(
     per_device_train_batch_size=BATCH_SIZE,
     gradient_accumulation_steps=4,
@@ -107,12 +105,12 @@ training_args = TrainingArguments(
     output_dir=OUTPUT_DIR,
     save_total_limit=2,
     save_strategy="epoch",
-    fp16=True,                  # RTX 4050 supports fp16
+    fp16=True,                 
     optim="adamw_torch",
     report_to="none"
 )
 
-# ── Trainer ───────────────────────────────────────────────────────────────────
+
 trainer = Trainer(
     model=model,
     train_dataset=tokenized_dataset,
@@ -122,7 +120,7 @@ trainer = Trainer(
 
 trainer.train()
 
-# ── Save ──────────────────────────────────────────────────────────────────────
+
 model.save_pretrained(OUTPUT_DIR)
 tokenizer.save_pretrained(OUTPUT_DIR)
 print("✅ Fine-tuned model saved to", OUTPUT_DIR)

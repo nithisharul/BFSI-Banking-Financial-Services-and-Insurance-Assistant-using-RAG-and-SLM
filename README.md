@@ -151,6 +151,9 @@ python 04_app.py
 
 <img width="1882" height="906" alt="image" src="https://github.com/user-attachments/assets/348edd5d-95d0-48d8-96b4-1a277cd59559" />
 
+#Light Theme:
+<img width="1866" height="905" alt="image" src="https://github.com/user-attachments/assets/4ef39b2c-1ae0-4fee-b9eb-4d7f1580e395" />
+
 
 
 

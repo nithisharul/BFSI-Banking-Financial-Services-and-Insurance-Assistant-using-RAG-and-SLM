@@ -129,3 +129,9 @@ python 04_app.py
 - Account and KYC support
 - Insurance queries (health, motor, life)
 - RBI guidelines and banking regulations
+
+
+## Screenshots of Working Project application
+<img width="1883" height="1010" alt="image" src="https://github.com/user-attachments/assets/f2f66169-503a-4f7e-ab76-a02667952f0b" />
+
+

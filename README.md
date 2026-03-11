@@ -134,4 +134,22 @@ python 04_app.py
 ## Screenshots of Working Project application
 <img width="1883" height="1010" alt="image" src="https://github.com/user-attachments/assets/f2f66169-503a-4f7e-ab76-a02667952f0b" />
 
+1.Using a Sample question:
+<img width="1875" height="905" alt="image" src="https://github.com/user-attachments/assets/13398f71-72d5-4361-8ac5-999c33a90e1e" />
+<img width="1877" height="906" alt="image" src="https://github.com/user-attachments/assets/eead7bae-f1e2-4b26-86bd-a733b4cadb8b" />
+
+2.Typing a question ourselves:
+<img width="1882" height="908" alt="image" src="https://github.com/user-attachments/assets/3ee076f3-77ad-4167-b938-9c84fd0fc0d7" />
+<img width="1884" height="908" alt="image" src="https://github.com/user-attachments/assets/73682fad-34d9-4799-a2c4-dae7d33c7d6d" />
+
+NOTE :  
+1.As we can see for each query we can see an confidence score which tells us how confident the system is with its answer, To ensure the guardrails and security feature if this number falls below 0.25 the system politely denies the answer this shall be demonstrated by the example given below
+
+3.Out of Scope Question
+
+<img width="1885" height="903" alt="image" src="https://github.com/user-attachments/assets/ee41c200-89e2-41b0-a923-3d5699ed37ea" />
+<img width="1882" height="906" alt="image" src="https://github.com/user-attachments/assets/348edd5d-95d0-48d8-96b4-1a277cd59559" />
+
+
+
 

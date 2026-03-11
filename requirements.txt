@@ -1,0 +1,17 @@
+
+python>=3.10
+transformers
+peft
+trl
+datasets
+accelerate
+torch
+bitsandbytes
+llama-index
+chromadb
+sentence-transformers
+gradio
+tqdm
+scikit-learn
+pandas
+faiss-cpu

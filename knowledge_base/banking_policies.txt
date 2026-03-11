@@ -1,0 +1,289 @@
+=== RBI GUIDELINES AND BANKING POLICIES ===
+
+--- SAVINGS ACCOUNT POLICIES ---
+Minimum Balance Requirements:
+- Urban branches: INR 1,000 to INR 10,000 depending on bank
+- Semi-urban branches: INR 500 to INR 2,000
+- Rural branches: INR 250 to INR 1,000
+- Basic Savings Bank Deposit (BSBD) accounts: Zero minimum balance
+- Non-maintenance charges: INR 50 to INR 600 per quarter
+
+Interest Rates on Savings Accounts:
+- Regular savings accounts: 2.5% to 4% per annum
+- High-balance savings accounts: Up to 7% per annum
+- Interest calculated on daily closing balance
+- Interest credited quarterly or monthly depending on bank
+
+ATM Transaction Limits (RBI Guidelines):
+- Minimum 5 free transactions per month at own bank ATMs
+- Minimum 3 free transactions at other bank ATMs in metro cities
+- Minimum 5 free transactions at other bank ATMs in non-metro cities
+- Charges beyond free limit: Up to INR 21 per transaction
+- Cash withdrawal limit per day: INR 10,000 to INR 1,00,000 depending on card type
+
+--- CURRENT ACCOUNT POLICIES ---
+- No interest paid on current account balances
+- Overdraft facility available against current accounts
+- Higher minimum balance requirements than savings accounts
+- Unlimited transactions allowed
+- Suitable for businesses and professionals with high transaction volumes
+
+--- FIXED DEPOSIT POLICIES ---
+Interest Rates:
+- Regular FD rates: 5.5% to 7.5% per annum depending on tenure
+- Senior citizen rates: Additional 0.25% to 0.75% over regular rates
+- Tax-saving FD rates: Similar to regular FD rates
+
+TDS on FD Interest:
+- TDS deducted when interest exceeds INR 40,000 per year (regular)
+- TDS threshold for senior citizens: INR 50,000 per year
+- TDS rate with PAN: 10%
+- TDS rate without PAN: 20%
+- Form 15G: Submit to avoid TDS (below 60 years, income below taxable limit)
+- Form 15H: Submit to avoid TDS (senior citizens)
+
+Premature Withdrawal:
+- Penalty: 0.5% to 1% reduction in applicable interest rate
+- Tax-saving FDs (Section 80C): Cannot be withdrawn before 5 years
+- Lock-in period for tax-saving FD: 5 years mandatory
+
+--- RECURRING DEPOSIT POLICIES ---
+- Minimum deposit: INR 100 per month in some banks
+- Tenure: 6 months to 10 years
+- Interest rates similar to FD rates for chosen tenure
+- Missed installment penalty: Small penalty per missed installment
+- Loan against RD: Available up to 80-90% of RD value
+- Premature closure allowed with penalty
+
+--- KYC (KNOW YOUR CUSTOMER) POLICIES ---
+Mandatory KYC Documents:
+- Identity Proof: Aadhaar card, PAN card, Passport, Voter ID, Driving License
+- Address Proof: Aadhaar card, Utility bills, Rent agreement, Passport
+- Photograph: Recent passport size photograph
+
+KYC Update Requirements:
+- Low risk customers: Every 10 years
+- Medium risk customers: Every 8 years
+- High risk customers: Every 2 years
+- KYC can be updated at branch, online portal, or mobile app
+
+Video KYC (V-KYC):
+- Available for new account opening
+- Requires live video interaction with bank official
+- Aadhaar OTP verification required
+- Valid for digital account opening
+
+--- DIGITAL BANKING POLICIES ---
+Internet Banking:
+- Registration via branch or online self-registration
+- Two-factor authentication mandatory
+- Session timeout after inactivity
+- Transaction limits set by bank and can be customized by customer
+
+UPI (Unified Payments Interface):
+- Daily transaction limit: Up to INR 1 lakh (some banks up to INR 2 lakhs)
+- Per transaction limit: Up to INR 1 lakh
+- Available 24x7 including bank holidays
+- Linked to bank account via VPA (Virtual Payment Address)
+
+NEFT (National Electronic Funds Transfer):
+- Available 24x7
+- No minimum or maximum transaction limit
+- Batch-based settlement
+- Free of charge as per RBI guidelines
+
+RTGS (Real Time Gross Settlement):
+- Minimum transaction amount: INR 2 lakhs
+- No maximum limit
+- Real-time settlement
+- Available on bank working days and hours
+
+IMPS (Immediate Payment Service):
+- Available 24x7 including holidays
+- Maximum limit: INR 5 lakhs per transaction
+- Instant settlement
+- Small charges may apply
+
+--- DEPOSIT INSURANCE ---
+DICGC Coverage:
+- Each depositor insured up to INR 5 lakhs per bank
+- Covers savings, fixed, recurring, and current deposits
+- Both principal and interest covered within INR 5 lakhs limit
+- Applies only to DICGC-registered banks
+- In case of bank failure, claim processed within 90 days
+
+--- LOCKER POLICIES ---
+- Available in small, medium, and large sizes
+- Annual rental varies by size and location
+- Accessible only during banking hours
+- Joint operation available
+- Nomination facility mandatory as per RBI 2022 guidelines
+- Bank liability for locker contents: Up to 100 times annual rent for losses due to bank negligence
+- Bank not liable for losses due to natural calamities unless negligent
+
+--- DORMANT AND UNCLAIMED ACCOUNTS ---
+- Account becomes inoperative after 1 year of no transactions
+- Account becomes dormant after 2 years of no transactions
+- Unclaimed deposits transferred to RBI's DEA Fund after 10 years
+- Customer can reclaim funds from bank even after transfer to DEA Fund
+- Reactivation requires branch visit with KYC documents
+
+--- FRAUD AND SECURITY POLICIES ---
+Unauthorized Transaction Reporting:
+- Report within 3 working days: Zero liability if bank negligent
+- Report within 4-7 working days: Limited liability up to INR 10,000
+- Report after 7 working days: Liability determined by bank policy
+- Report to: 24x7 helpline, mobile app, net banking, or branch
+
+OTP and Security Guidelines:
+- Bank employees will NEVER ask for OTP, PIN, or password
+- Do not share OTP with anyone including bank staff
+- OTP valid for limited time only
+- Phishing awareness: Always access banking through official channels only
+
+Cyber Crime Reporting:
+- National Cyber Crime helpline: 1930
+- Online reporting: cybercrime.gov.in
+- Local police FIR for significant fraud amounts
+
+--- NOMINATION POLICIES ---
+- Nomination mandatory for all deposit accounts as per RBI guidelines
+- Up to 4 nominees allowed with percentage allocation
+- Nominee is trustee, not necessarily legal owner
+- Change nomination anytime through branch or digital channels
+- Minor nominee requires guardian details
+- Nominee can claim funds with death certificate and ID proof
+
+--- GRIEVANCE REDRESSAL ---
+Escalation Levels:
+Level 1: Branch Manager
+Level 2: Bank's Customer Care / Grievance Cell
+Level 3: Nodal Officer of the Bank
+Level 4: RBI Banking Ombudsman (if unresolved within 30 days)
+Level 5: Consumer Court / Appellate Authority
+
+RBI Banking Ombudsman:
+- File complaint at: cms.rbi.org.in
+- Free of charge
+- Awards up to INR 20 lakhs for banking disputes
+- Covers banks, NBFCs, and digital payment complaints
+- Must approach bank first and wait 30 days before filing
+
+=== PAYMENT AND TRANSACTION POLICIES ===
+
+--- CHEQUE POLICIES ---
+Cheque Bounce:
+- Drawer charges: INR 150 to INR 750 per instance
+- Legal action under Section 138 of Negotiable Instruments Act
+- Criminal offense: Imprisonment up to 2 years and/or fine up to 2x cheque amount
+- Cheque validity: 3 months from date of issue
+- Post-dated cheques: Presented only on or after the date mentioned
+
+Cheque Truncation System (CTS):
+- Local cheques cleared within 1 working day
+- Outstation cheques cleared within 1-2 working days
+- Physical movement of cheques eliminated
+
+Demand Draft (DD):
+- Pre-paid instrument, cannot bounce
+- Commission charged by bank
+- Valid for 3 months
+- Revalidation possible if expired
+- Preferred for large transactions requiring guaranteed payment
+
+--- MOBILE BANKING POLICIES ---
+- Registration requires debit card or branch visit
+- Biometric/MPIN authentication
+- Transaction limits set per day
+- Remote wipe facility if phone lost
+- Registered mobile number required for OTP
+
+=== INSURANCE POLICIES ===
+
+--- LIFE INSURANCE ---
+Term Insurance:
+- Pure life cover for fixed period
+- No maturity benefit if insured survives
+- Low premiums
+- Sum assured paid to nominee on death during term
+- Tax benefit: Premium up to INR 1.5 lakhs under Section 80C
+
+Endowment Insurance:
+- Life cover plus savings component
+- Maturity benefit if insured survives
+- Higher premiums than term insurance
+- Surrender value after 2-3 years of premium payment
+
+ULIP (Unit Linked Insurance Plan):
+- Life cover plus market-linked investment
+- Lock-in period: 5 years
+- Surrender charges in first 5 years
+- Returns market-linked, not guaranteed
+- IRDAI regulated
+
+PMJJBY (Pradhan Mantri Jeevan Jyoti Bima Yojana):
+- Eligibility: 18-50 years with savings bank account
+- Premium: INR 436 per year (auto-debited)
+- Coverage: INR 2 lakhs for death due to any cause
+- Renewable annually
+
+--- HEALTH INSURANCE ---
+Waiting Periods:
+- Initial waiting period: 30 days (no claims except accidents)
+- Pre-existing disease (PED): 2-4 years
+- Specific diseases (hernia, cataracts): 1-2 years
+- Maternity benefit: 2-4 years
+
+Cashless Claims:
+- Available at network hospitals only
+- Pre-authorization required
+- Hospital settles bill directly with insurer
+- TPA (Third Party Administrator) coordinates claims
+
+Reimbursement Claims:
+- Pay hospital bill upfront
+- Submit claim within 30-90 days
+- Original bills and discharge summary required
+- Insurer reimburses approved amount
+
+Section 80D Tax Benefits:
+- Self, spouse, children: Up to INR 25,000 per year
+- Senior citizen self/spouse: Up to INR 50,000
+- Parents below 60: Additional INR 25,000
+- Senior citizen parents: Additional INR 50,000
+- Maximum total deduction: INR 1 lakh
+
+--- MOTOR INSURANCE ---
+Third-Party Insurance:
+- Mandatory by law in India
+- Covers damages to third party only
+- Does not cover own vehicle damage
+- Premium regulated by IRDAI
+
+Comprehensive Insurance:
+- Third-party coverage plus own damage
+- Covers accident, fire, theft, natural disaster
+- Higher premium than third-party
+- Add-ons available: Zero depreciation, engine protect, NCB protect
+
+No Claim Bonus (NCB):
+- 1 year no claim: 20% discount
+- 2 years: 25% discount
+- 3 years: 35% discount
+- 4 years: 45% discount
+- 5 years: 50% discount (maximum)
+- NCB belongs to policyholder, transferable to new vehicle
+
+PMSBY (Pradhan Mantri Suraksha Bima Yojana):
+- Eligibility: 18-70 years with savings bank account
+- Premium: INR 20 per year
+- Coverage: INR 2 lakhs accidental death/permanent total disability
+- INR 1 lakh for permanent partial disability
+
+--- INSURANCE GRIEVANCE ---
+Insurance Ombudsman:
+- File at: ecio.gov.in
+- Free of charge
+- Covers life and non-life insurance complaints
+- Must approach insurer first
+- Free Look Period: 15 days (offline), 30 days (online) to cancel policy

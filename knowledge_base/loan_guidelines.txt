@@ -1,0 +1,322 @@
+=== LOAN GUIDELINES AND POLICIES ===
+
+--- HOME LOAN POLICIES ---
+Eligibility Criteria:
+- Minimum age: 21 years (salaried), 25 years (self-employed)
+- Maximum age at loan maturity: 60-70 years (salaried), 65-75 years (self-employed)
+- Minimum income: Varies by bank and loan amount
+- Minimum CIBIL score: 700-750 recommended
+- Employment stability: Minimum 2 years in current job (salaried)
+- Business continuity: Minimum 2-3 years (self-employed)
+
+Loan-to-Value (LTV) Ratio (RBI Guidelines):
+- Loans up to INR 30 lakhs: Maximum LTV 90%
+- Loans between INR 30-75 lakhs: Maximum LTV 80%
+- Loans above INR 75 lakhs: Maximum LTV 75%
+- Remaining amount must be paid as down payment by borrower
+
+Interest Rates:
+- Floating rate: 8.5% to 10.5% per annum (linked to repo rate/MCLR)
+- Fixed rate: Slightly higher than floating, remains constant
+- Women borrowers concession: 0.05% to 0.10% on interest rate
+- Rates subject to change based on RBI monetary policy
+
+Home Loan Tax Benefits:
+- Principal repayment: Up to INR 1.5 lakhs under Section 80C
+- Interest payment: Up to INR 2 lakhs under Section 24(b) for self-occupied
+- Let-out property: No limit on interest deduction
+- First-time buyers: Additional INR 50,000 under Section 80EEA (conditions apply)
+- Stamp duty and registration: Qualifies under Section 80C in year of payment
+
+Documentation Required:
+- Identity proof: Aadhaar, PAN, Passport
+- Address proof: Aadhaar, utility bill, rent agreement
+- Income proof (salaried): Last 3 months salary slips, Form 16, ITR for 2 years
+- Income proof (self-employed): ITR for 3 years, audited P&L, balance sheet
+- Bank statements: Last 6 months
+- Property documents: Sale agreement, NOC from builder, title deed
+- Photographs: Passport size
+
+Processing Time:
+- Document submission to approval: 7-15 working days
+- Subject to property verification and legal checks
+- Pre-approved offers for existing customers: Faster processing
+
+Charges:
+- Processing fee: 0.25% to 1% of loan amount
+- GST: 18% on processing fee
+- Legal and technical charges: INR 5,000 to INR 15,000
+- Stamp duty on mortgage deed: As per state government rates
+- Franking charges: 0.1% to 0.2% of loan agreement value
+
+Prepayment and Foreclosure:
+- Floating rate loans (individual borrowers): No prepayment penalty (RBI guideline)
+- Fixed rate loans: 2-4% of outstanding principal
+- Part prepayment: Option to reduce EMI or tenure
+- Lock-in period: Some banks have 6-12 month lock-in
+
+Balance Transfer:
+- Transfer outstanding loan to another bank for lower interest rate
+- New bank processing fee applicable
+- Foreclosure charges on old loan (if fixed rate)
+- Top-up loan option available during transfer
+
+Under-Construction Property:
+- Pre-EMI: Pay only interest on disbursed amount during construction
+- Full EMI: Start full EMI from first disbursement
+- Disbursement in tranches based on construction progress
+- Tax benefit on interest: Available only after possession
+
+PMAY (Pradhan Mantri Awas Yojana):
+- EWS/LIG (income up to INR 6 lakhs): 6.5% subsidy on loans up to INR 6 lakhs
+- MIG-I (income up to INR 12 lakhs): 4% subsidy on loans up to INR 9 lakhs
+- MIG-II (income up to INR 18 lakhs): 3% subsidy on loans up to INR 12 lakhs
+- For first-time home buyers only
+- Subject to scheme availability and government updates
+
+--- PERSONAL LOAN POLICIES ---
+Eligibility:
+- Minimum age: 21 years
+- Maximum age: 60 years (at loan maturity)
+- Minimum monthly income (salaried): INR 15,000 per month
+- Minimum annual income (self-employed): INR 2,00,000
+- Minimum CIBIL score: 700-750
+- Employment: Minimum 1-2 years in current organization
+
+Loan Details:
+- Loan amount: INR 50,000 to INR 40 lakhs
+- Tenure: 12 to 60 months (some banks up to 84 months)
+- Interest rates: 10% to 18% per annum
+- Processing fee: 0.5% to 2.5% of loan amount
+- GST on processing fee: 18%
+- Disbursement: Within 1-3 working days for complete applications
+
+Prepayment:
+- Floating rate: No prepayment penalty (RBI guideline)
+- Fixed rate: 2-5% of outstanding principal
+- Lock-in period: 6-12 months typically
+- Part prepayment: Reduces principal, saves interest
+
+--- VEHICLE LOAN POLICIES ---
+Eligibility:
+- Salaried individuals, self-employed, and businesses
+- Minimum age: 21 years
+- Maximum age: 65 years (at loan maturity)
+- Minimum income: Varies by bank and loan amount
+
+Loan Details:
+- Loan amount: Up to 80-90% of on-road price
+- Tenure: Up to 7 years for cars, up to 5 years for two-wheelers
+- Interest rates: 7% to 12% per annum
+- Vehicle serves as collateral (hypothecated to bank)
+- Processing fee: INR 500 to INR 5,000
+
+Loan Closure:
+- Obtain NOC from bank after full repayment
+- Remove hypothecation from RC book at RTO
+- Keep closure letter and NOC safely
+
+--- EDUCATION LOAN POLICIES ---
+Eligibility:
+- Student must have secured admission to recognized institution
+- Co-applicant required (parent, guardian, or spouse)
+- Indian nationality
+
+Loan Details:
+- Loans up to INR 4 lakhs: No collateral required
+- Loans from INR 4-7.5 lakhs: Third-party guarantee required
+- Loans above INR 7.5 lakhs: Collateral required
+- Coverage: Tuition fees, hostel, books, equipment, travel
+
+Repayment:
+- Moratorium period: Course duration plus 6-12 months
+- Repayment tenure: Up to 15 years
+- Interest subsidy available for economically weaker sections
+
+Tax Benefit:
+- Section 80E: Deduction on entire interest paid
+- No limit on deduction amount
+- Available for 8 consecutive years from start of repayment
+- For self, spouse, children, or legal ward
+
+--- GOLD LOAN POLICIES ---
+Eligibility:
+- Any individual above 18 years
+- Must own gold jewellery or coins
+- No income proof required
+- No CIBIL score requirement
+
+Loan Details:
+- Loan amount: Up to 75% of gold value (as per RBI guideline)
+- Interest rates: 7% to 12% per annum
+- Tenure: Up to 12-24 months
+- Quick disbursement: Within hours
+- Minimal documentation
+
+Processing:
+- Gold assessed by bank's appraiser
+- Gold stored in bank vault during loan tenure
+- Return gold upon full repayment
+- Auction of gold if default occurs after notice
+
+--- LOAN AGAINST PROPERTY (LAP) ---
+Eligibility:
+- Owner of residential or commercial property
+- Age: 21 to 65 years
+- Regular income source
+
+Loan Details:
+- Loan amount: Up to 60-70% of property market value
+- Interest rates: 9% to 12% per annum
+- Tenure: Up to 15-20 years
+- Processing fee: 1-2% of loan amount
+- End use: Any legitimate business or personal purpose
+
+--- BUSINESS LOAN / MSME LOAN POLICIES ---
+Eligibility:
+- Business vintage: Minimum 2-3 years
+- Annual turnover: As per bank policy
+- GST registration: Required for most business loans
+- CIBIL score: 700+ recommended
+
+Government Schemes:
+- MUDRA Loan: Up to INR 10 lakhs for micro enterprises
+  - Shishu: Up to INR 50,000
+  - Kishor: INR 50,000 to INR 5 lakhs
+  - Tarun: INR 5 lakhs to INR 10 lakhs
+- CGTMSE: Credit guarantee for MSMEs without collateral
+- Stand-Up India: Loans for SC/ST and women entrepreneurs
+
+--- LOAN RECOVERY POLICIES (RBI GUIDELINES) ---
+Recovery Agent Conduct:
+- Contact hours: 8 AM to 7 PM only
+- No abusive, threatening, or intimidating behavior
+- Cannot contact family members (unless guarantors)
+- Must carry valid identification
+- No physical force or harassment allowed
+- Violations to be reported to bank grievance cell or RBI Ombudsman
+
+NPA Classification:
+- Loan classified as NPA if EMI overdue for more than 90 days
+- Sub-standard: NPA for up to 12 months
+- Doubtful: NPA for more than 12 months
+- Loss assets: No recovery expected
+
+SARFAESI Act:
+- Applicable to secured loans above INR 1 lakh
+- Bank issues 60-day notice before asset seizure
+- Asset can be seized without court order after notice period
+- Proceeds from asset sale used to recover dues
+- Borrower can approach Debt Recovery Tribunal (DRT)
+
+Loan Restructuring:
+- Available for genuine financial hardship cases
+- Options: Extended tenure, reduced EMI, interest waiver
+- Requires bank approval and assessment
+- Impact on credit score may vary
+
+--- EMI CALCULATION AND MANAGEMENT ---
+EMI Formula:
+EMI = P × r × (1+r)^n / [(1+r)^n - 1]
+Where:
+- P = Principal loan amount
+- r = Monthly interest rate (annual rate / 12 / 100)
+- n = Number of monthly installments
+
+Example Calculations:
+- INR 5,00,000 at 10% for 5 years: EMI = INR 10,624
+- INR 10,00,000 at 8.5% for 10 years: EMI = INR 12,400
+- INR 30,00,000 at 9% for 20 years: EMI = INR 26,992
+
+Amortization:
+- Early EMIs: Higher interest component, lower principal
+- Later EMIs: Lower interest component, higher principal
+- Total interest paid decreases with shorter tenure
+- Part prepayment reduces total interest significantly
+
+EMI Bounce:
+- Penalty: INR 300 to INR 750 per bounce
+- Late payment charge: 1-2% per month on overdue amount
+- Negative CIBIL score impact
+- Repeated bounces may trigger loan recall
+
+NACH/ECS for EMI:
+- Automatic debit on due date
+- Register via branch or Aadhaar e-sign
+- Ensure sufficient balance before due date
+- Cancellation requires 3-7 working days notice
+
+--- CIBIL AND CREDIT SCORE POLICIES ---
+Score Ranges:
+- 750-900: Excellent - Best rates and easy approval
+- 700-749: Good - Approval likely with competitive rates
+- 650-699: Fair - Approval possible with higher rates
+- 600-649: Poor - Difficult approval, very high rates
+- 300-599: Very Poor - Likely rejection
+
+Factors Affecting Score:
+- Payment history: 35% weightage
+- Credit utilization: 30% weightage
+- Length of credit history: 15% weightage
+- Credit mix: 10% weightage
+- New credit inquiries: 10% weightage
+
+Improving Credit Score:
+- Pay all EMIs and credit card bills on time
+- Keep credit utilization below 30%
+- Avoid multiple loan applications simultaneously
+- Maintain mix of secured and unsecured credit
+- Check report regularly for errors
+- Score improvement timeline: 6-12 months
+
+Dispute Resolution:
+- File dispute at cibil.com
+- CIBIL forwards to bank for verification
+- Resolution in 30-45 days
+- Escalate to RBI Ombudsman if unresolved
+
+--- PRIORITY SECTOR LENDING (PSL) ---
+RBI Mandate for Banks:
+- Total PSL target: 40% of Adjusted Net Bank Credit (ANBC)
+- Agriculture: 18% of ANBC
+- Micro enterprises: 7.5% of ANBC
+- Weaker sections: 12% of ANBC
+- Shortfall contribution: To RIDF or other RBI funds
+
+Kisan Credit Card (KCC):
+- For farmers to meet agricultural input needs
+- Interest rate: 7% per annum (with interest subvention)
+- Flexible repayment aligned with crop cycles
+- Reviewed annually based on cropping pattern
+- Issued under RBI/NABARD guidelines
+
+--- INTEREST RATE FRAMEWORK ---
+Benchmark Rates:
+- Repo Rate: Set by RBI, affects all lending rates
+- MCLR: Internal bank benchmark, resets periodically (monthly to annually)
+- EBLR (External Benchmark Lending Rate): Directly linked to repo rate
+- Resets quarterly for EBLR-linked loans
+
+Rate Types:
+- Fixed Rate: Constant throughout tenure or initial period
+- Floating Rate: Changes with benchmark rate
+- Teaser Rate: Low initial rate that resets to higher rate later (RBI has expressed concerns)
+
+RBI Guidelines on Rates:
+- Banks cannot lend below MCLR (with exceptions)
+- Floating rate loans for individuals: No prepayment penalty
+- Rate change communication: 3 months advance notice required
+- Interest rate transparency: Full disclosure mandatory
+
+--- JOINT LOAN POLICIES ---
+Co-applicant Benefits:
+- Combined income increases loan eligibility
+- Both can claim individual tax benefits
+- Women co-borrowers may get interest rate concession
+- Property must be co-owned in home loans
+
+Co-applicant vs Guarantor:
+- Co-applicant: Primary liability, benefits from loan
+- Guarantor: Secondary liability (triggered on default), no benefit
+- Both face credit score impact on default
+- Both must understand full obligations before agreeing
